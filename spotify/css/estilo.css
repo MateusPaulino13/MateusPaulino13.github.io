@@ -11,8 +11,8 @@ html, body, #home {
 }
 
 body {
-    background: url("/Curso Udemy/PROJETOS/spotify/imagens/capa.png"),
-    url("/Curso Udemy/PROJETOS/spotify/imagens/ruido.png"),
+    background: url("/spotify/imagens/capa.png"),
+    url("/spotify/imagens/ruido.png"),
     linear-gradient(50deg, #ff4169, #7c26f8);
     background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif;
